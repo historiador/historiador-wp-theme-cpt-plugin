@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Historiador Custom Post Types
-Plugin URI: https://gitlab.com/protesilaos/historiador-cpt-plugin
+Plugin URI: https://github.com/historiador/historiador-wp-theme-cpt-plugin
 Description: Custom Post Types for the Historiador Theme
 Version: 0.1.0
 Author: Protesilaos Stavrou
