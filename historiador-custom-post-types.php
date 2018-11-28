@@ -45,7 +45,7 @@ function historiador_create_custom_post_type() {
 		'filter_items_list'     => __( 'Filter items list', 'historiador_cpt' ),
 	);
 	$rewrite_blog_en = array(
-		'slug'                  => 'blog-en',
+		'slug'                  => 'blog_en',
 		'with_front'            => true,
 		'pages'                 => true,
 		'feeds'                 => true,
