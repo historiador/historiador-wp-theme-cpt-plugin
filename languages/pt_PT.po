@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2019-02-05T22:55:53+00:00\n"
-"PO-Revision-Date: 2019-02-05 23:00+0000\n"
+"PO-Revision-Date: 2019-02-05 23:01+0000\n"
 "X-Generator: Poedit 2.2.1\n"
 "X-Domain: historiador-cpt\n"
 "Last-Translator: \n"
@@ -27,7 +27,7 @@ msgstr "https://github.com/historiador/historiador-wp-theme-cpt-plugin"
 
 #. Description of the plugin
 msgid "Custom Post Types for the Historiador Theme"
-msgstr "Tipos de publicação personalizados para o tema Historiador."
+msgstr "Tipos de publicação personalizados para o tema Historiador"
 
 #. Author of the plugin
 msgid "Protesilaos Stavrou"
