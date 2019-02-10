@@ -356,3 +356,8 @@ function historiador_create_custom_post_type() {
 	register_post_type( 'videos', $arguments_videos );
 }
 add_action( 'init', 'historiador_create_custom_post_type', 0 );
+
+add_action( 'init', 'myplugin_load_textdomain' );
+function myplugin_load_textdomain() {
+  load_plugin_textdomain( 'historiador_cpt', false, basename( dirname( __FILE__ ) ) . '/languages' ); 
+}
